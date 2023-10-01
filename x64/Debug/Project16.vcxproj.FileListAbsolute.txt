@@ -1,0 +1,8 @@
+D:\ВСЕ\ТГУ\С++\Project16\x64\Debug\Project16.vcxproj.AssemblyReference.cache
+D:\ВСЕ\ТГУ\С++\Project16\x64\Debug\Project16.exe
+D:\ВСЕ\ТГУ\С++\Project16\x64\Debug\Project16.MyForm.resources
+D:\ВСЕ\ТГУ\С++\Project16\x64\Debug\Project16.vcxproj.GenerateResource.cache
+D:\ВСЕ\ТГУ\С++\laba_2\x64\Debug\Project16.vcxproj.AssemblyReference.cache
+D:\ВСЕ\ТГУ\С++\laba_2\x64\Debug\Project16.MyForm.resources
+D:\ВСЕ\ТГУ\С++\laba_2\x64\Debug\Project16.vcxproj.GenerateResource.cache
+D:\ВСЕ\ТГУ\С++\laba_2\x64\Debug\Project16.exe
